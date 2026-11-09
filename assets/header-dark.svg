@@ -49,7 +49,7 @@
 <circle class="d" style="--y:58px;animation-delay:1.0s" cx="885.0" cy="18" r="4" fill="#22d3ee"/>
 <text x="72" y="104" font-size="18" fill="#8b949e">~/95wesley $ whoami</text>
 <text x="70" y="172" font-size="64" font-weight="700" fill="#e6edf3" letter-spacing="-1">Wesley <tspan fill="url(#ac)">Souza</tspan></text>
-<text x="72" y="216" font-size="20" fill="#e6edf3">stack <tspan fill="#8b949e">≈</tspan> <tspan fill="url(#ac)" font-weight="700">TypeScript · Go · Python</tspan><tspan class="cur" fill="#22d3ee">▍</tspan></text>
+<text x="72" y="216" font-size="20" fill="#e6edf3">stack <tspan fill="#8b949e">≈</tspan> <tspan fill="url(#ac)" font-weight="700">TypeScript · Vue · PHP · Go</tspan><tspan class="cur" fill="#22d3ee">▍</tspan></text>
 <text x="72" y="256" font-size="16" fill="#8b949e">local-first tools · web apps · open source</text>
 </g>
 </svg>
