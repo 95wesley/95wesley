@@ -65,6 +65,18 @@ const me = {
   <img alt="Nomad" src="https://img.shields.io/badge/Nomad-00CA8E?style=flat-square&logo=nomad&logoColor=white">
 </p>
 
+### ◇ Mobile
+
+<p>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
+  <img alt="Objective-C" src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white">
+  <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white">
+  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white">
+</p>
+
 ### ◇ Principles
 
 - **Local first.** Data stays on your device whenever it can.
